@@ -16,27 +16,27 @@
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "15439423"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "7674a193c280a86c28fad15305c0fb10"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "1032459345774-i627n1jsu01p66mks1bjqikpb9rvt43d.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "1614229267"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
-      "value": "",
+      "value": "1614229267",
       "required":false
     },
     "VIDEO_DESCRIPTION": {
@@ -61,8 +61,8 @@
     },
     "UPLOAD_MODE": {
       "description": "The video's privacy status. Valid values for this property are: private, public, unlisted",
-      "value": "private",
-      "required":false
+      "value": "public",
+      "required":true
     },
     "DEBUG": {
       "description": "Pass any value to set logging to debug level.",
