@@ -24,11 +24,11 @@
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": "1032459345774-i627n1jsu01p66mks1bjqikpb9rvt43d.apps.googleusercontent.com"
+      "value": "364227594004-hek7bur9ckm12cs14pulf1hib5e3aatf.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": "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"
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
